@@ -161,5 +161,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend' # 기본설정이�
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = "nalala8200@gmail.com"
-EMAIL_HOST_PASSWORD = "savfgbqnqslnjetb"
+EMAIL_HOST_USER = "본인메일"
+EMAIL_HOST_PASSWORD = "본인메일 비번"
